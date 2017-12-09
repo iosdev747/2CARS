@@ -1,2 +1,2 @@
-# 2CARS_by_iOSDev
+# 2CARS
 game​ ​consists​ ​of​ ​two​ ​cars​ ​which​ ​are​ ​controlled​ ​simultaneously,​ ​but independently.​ ​Game​ ​screen​ ​is​ ​vertically​ ​divided​ ​into​ ​two​ ​parts​ ​and​ ​each part​ ​is​ ​further​ ​divided​ ​into​ ​two​ ​lanes.​ ​Each​ ​car​ ​can​ ​switch​ ​between​ ​their respective​ ​lanes.​ ​There​ ​are​ ​two​ ​types​ ​of​ ​objects​ ​which​ ​appear​ ​in​ ​the​ ​path of​ ​each​ ​car.​ ​Each​ ​car​ ​has​ ​to​ ​avoid​ ​one​ ​type​ ​of​ ​object​ ​(squares)​ ​and​ ​pick other​ ​type​ ​of​ ​object​ ​(circles).​ ​Game​ ​ends​ ​if​ ​a​ ​car​ ​hits​ ​a​ ​square​ ​or​ ​is​ ​unable to​ ​pick​ ​a​ ​circle. 
